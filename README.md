@@ -12,4 +12,6 @@ Lista de libreria
 #include <SPI.h>
 #include <MFRC522.h>
 
-![alt text](image.jpg)
+## Lector de Tarjetas RFC 
+
+<img src="https://raw.githubusercontent.com/davidciliberto1/LectorTarjetaasRFC/main/images/WhatsApp%20Image%202021-08-20%20at%2010.01.18.jpeg" width="200"  style="text-align: right;"> 
