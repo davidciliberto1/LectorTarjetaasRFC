@@ -15,4 +15,4 @@ you need to install this libraries in the top of the code
 
 ## Lector de Tarjetas RFC 
 
-<img src="https://raw.githubusercontent.com/davidciliberto1/LectorTarjetaasRFC/main/images/WhatsApp%20Image%202021-08-20%20at%2010.01.18.jpeg" width="200"  style="text-align: right;"> 
+<img src="https://raw.githubusercontent.com/davidciliberto1/LectorTarjetaasRFC/main/images/LectorTarjetasRFC.jpeg" width="200"  style="text-align: right;"> 
