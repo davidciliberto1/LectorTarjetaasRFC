@@ -4,6 +4,8 @@ Description: RFC Card an Keychain reader programmable for door opening, security
 It verifies the ID of the card/keychain, checks the ID with the security array and allows the opening off a 10A relay connected to the security mechanism or gates, pending verification of ID it emits visual display of lights and sounds for approved or denied access. (optional lcd display)
 
 Libraries
+
+you need to install this libraries in the top of the code
  
 #include <LiquidCrystal_I2C.h>
 
